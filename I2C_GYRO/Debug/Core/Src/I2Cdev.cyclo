@@ -1,0 +1,6 @@
+../Core/Src/I2Cdev.c:17:6:writeBit	2
+../Core/Src/I2Cdev.c:24:6:writeBits	2
+../Core/Src/I2Cdev.c:44:8:readBytes	2
+../Core/Src/I2Cdev.c:52:8:readByte	2
+../Core/Src/I2Cdev.c:69:6:writeBytes	2
+../Core/Src/I2Cdev.c:80:6:writeByte	2
